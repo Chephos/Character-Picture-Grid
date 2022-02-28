@@ -5,6 +5,7 @@ Say you have a list of lists where each value in the inner lists is a one-charac
 string, like this:
 
 grid = 
+       
        [['.', '.', '.', '.', '.', '.'],
        ['.', 'O', 'O', '.', '.', '.'],
        ['O', 'O', 'O', 'O', '.', '.'],
@@ -23,6 +24,7 @@ and w the y-coordinates increase going down.
 
 
 Copy the previous grid value, and write code that uses it to print the image.
+
 ..OO.OO..
 
 .OOOOOOO.
